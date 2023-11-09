@@ -24,8 +24,6 @@ public class Client {
              var scanner = new Scanner(System.in)) {
 
 
-
-
         } catch (IOException e) {
             System.out.println("Client: exception while using client socket: " + e);
         }
