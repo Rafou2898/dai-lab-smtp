@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ch.heig.dai.lab.protocoldesign.Client</mainClass>
+                            <mainClass>ch.heig.dai.lab.smtp.Client</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,4 +1,4 @@
-package ch.heig.dai.lab.protocoldesign;
+package ch.heig.dai.lab.smtp;
 
 import java.io.*;
 import java.net.*;
